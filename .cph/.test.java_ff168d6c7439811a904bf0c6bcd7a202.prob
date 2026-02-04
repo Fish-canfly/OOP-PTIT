@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\trihi\\OneDrive\\Máy tính\\java\\test.java","tests":[{"id":1756362748077,"input":"3\nNguyen Van Nam\n168 600\nTran Thi Ngoc\n168 600\nLe Dinh Tien\n200 345","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\trihi\\OneDrive\\Máy tính\\java\\test.java","group":"local","local":true}

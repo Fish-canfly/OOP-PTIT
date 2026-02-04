@@ -1,0 +1,1 @@
+{"name":"Local: J04010","url":"c:\\Users\\trihi\\OneDrive\\Máy tính\\java\\J04010.java","tests":[{"id":1764336714120,"input":"3\n0 0 0 5 0 199\n1 1 1 1 1 1\n0 0 0 5 5 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\trihi\\OneDrive\\Máy tính\\java\\J04010.java","group":"local","local":true}
